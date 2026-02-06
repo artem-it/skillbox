@@ -1,0 +1,21 @@
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Airflow
+.airflow/
+airflow.db
+logs/
+
+# Mac
+.DS_Store
